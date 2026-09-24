@@ -9,6 +9,7 @@ namespace WebApplication1.Entities
         [Column("id_aut")]
         public int Id { get; set; }
 
+
         [Column("nome_aut")]
         public string Nome { get; set; } = string.Empty;
 

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|solutionrelative:webapplication1\\entities\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\saviopedrobiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|solutionrelative:webapplication1\\saviopedrobiblioteca.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\migrations\\20260916024429_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20260916024429_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|solutionrelative:webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\migrations\\20260916024429_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|solutionrelative:webapplication1\\migrations\\20260916024429_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|c:\\users\\odisseu\\desktop\\ifro\\pab\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{225734AC-98EE-4AAF-AFCB-8C45C89A0F8B}|WebApplication1\\SavioPedroBiblioteca.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\Entities\\Autor.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Entities\\Autor.cs",
+              "ToolTip": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\Entities\\Autor.cs",
+              "RelativeToolTip": "WebApplication1\\Entities\\Autor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T02:40:56.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\Properties\\launchSettings.json",
@@ -42,8 +59,7 @@
               "RelativeToolTip": "WebApplication1\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-16T02:54:46.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:54:46.093Z"
             },
             {
               "$type": "Document",
@@ -55,12 +71,11 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20260916024429_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:44:29.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:44:29.423Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -73,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -81,21 +96,19 @@
               "RelativeToolTip": "WebApplication1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T02:31:19.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:31:19.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WebApplication1.csproj",
+              "DocumentIndex": 2,
+              "Title": "SavioPedroBiblioteca.csproj",
               "DocumentMoniker": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\SavioPedroBiblioteca.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\SavioPedroBiblioteca.csproj",
               "ToolTip": "C:\\Users\\Odisseu\\Desktop\\IFRO\\PAB\\WebApplication1\\WebApplication1\\SavioPedroBiblioteca.csproj",
               "RelativeToolTip": "WebApplication1\\SavioPedroBiblioteca.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-16T02:30:22.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-16T02:30:22.256Z"
             }
           ]
         }
